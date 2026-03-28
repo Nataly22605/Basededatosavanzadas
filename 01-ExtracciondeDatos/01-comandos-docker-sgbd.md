@@ -25,3 +25,5 @@ docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=P@ssw0rd" \
    opt/mssql \
    -d \
    db9a
+
+   P@ssw0rd
